@@ -1,11 +1,10 @@
-console.log("hello world");
+//console.log("hello world");
 
 
 
 function handleSubmit(evt) {
-	evt.preventDefault();
-	
-	console.log('form submit');
+    evt.preventDefault();
+    alert('Your information has been submitted.');
 }
 
 
