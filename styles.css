@@ -36,3 +36,17 @@ input {
 img {
 	max-width: 300px;
 }
+
+.custom-button {
+    background-color: yellow;
+    color: black;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: #ffd700; 
+}
